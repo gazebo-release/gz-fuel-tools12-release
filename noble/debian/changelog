@@ -1,3 +1,9 @@
+gz-fuel-tools12 (12.0.0~pre2-1~noble) noble; urgency=medium
+
+  * gz-fuel-tools12 12.0.0~pre2-1 release
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 07 Oct 2026 01:33:13 +0000
+
 gz-fuel-tools12 (12.0.0~pre1-1~noble) noble; urgency=medium
 
   * gz-fuel-tools12 12.0.0~pre1-1 release
